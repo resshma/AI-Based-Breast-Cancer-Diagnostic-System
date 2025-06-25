@@ -17,7 +17,7 @@ Training: Binary cross-entropy loss, Adam optimizer, early stopping, 20 epochs m
 
 * Files:
 Dataset: Public Ultrasound Breast Images for Breast Cancer Detection
-Code & Models: [Your Link Here] (https://www.youtube.com/watch?v=ussgXhJ-cp0)
+Code & Models: 
 Visualizations: Accuracy and loss curves, ROC curves, confusion matrices
 Training Notebooks: Google Colab notebooks documenting the entire process
 Tools Used:
