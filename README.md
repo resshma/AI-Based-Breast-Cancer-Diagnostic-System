@@ -17,15 +17,21 @@ Training: Binary cross-entropy loss, Adam optimizer, early stopping, 20 epochs m
 
 * Files:
 Dataset: Public Ultrasound Breast Images for Breast Cancer Detection
-Code & Models: 
+
 Visualizations: Accuracy and loss curves, ROC curves, confusion matrices
+
 Training Notebooks: Google Colab notebooks documenting the entire process
 
 * Tools Used:
 
 TensorFlow & Keras for building and training models
+
 Google Colab for running GPU-accelerated experiments
+
 Python for data prep and modeling
+
 Matplotlib & Seaborn for visualizations
+
 Data augmentation tools like Keras ImageDataGenerator
+
 Pre-trained ImageNet weights for transfer learning in VGG16 and EfficientNetB0
