@@ -20,7 +20,8 @@ Dataset: Public Ultrasound Breast Images for Breast Cancer Detection
 Code & Models: 
 Visualizations: Accuracy and loss curves, ROC curves, confusion matrices
 Training Notebooks: Google Colab notebooks documenting the entire process
-Tools Used:
+
+* Tools Used:
 
 TensorFlow & Keras for building and training models
 Google Colab for running GPU-accelerated experiments
